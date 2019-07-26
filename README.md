@@ -1,1 +1,1 @@
-# Single-Neuron-Linear-Regression-Exampl
+# Single-Neuron-Linear-Regression-Example
